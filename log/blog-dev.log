@@ -1,0 +1,15 @@
+2021-01-08 09:30:31.803  INFO 3874 --- [restartedMain] com.lz.BlogApplication                   : Starting BlogApplication on MacBook-Pro.local with PID 3874 (/Users/pyb/Downloads/blog1/target/classes started by pyb in /Users/pyb/Downloads/blog1)
+2021-01-08 09:30:31.815  INFO 3874 --- [restartedMain] com.lz.BlogApplication                   : The following profiles are active: dev
+2021-01-08 09:30:31.978  INFO 3874 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-01-08 09:30:31.978  INFO 3874 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-01-08 09:30:34.565  INFO 3874 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2021-01-08 09:30:34.583  INFO 3874 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-08 09:30:34.584  INFO 3874 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.33]
+2021-01-08 09:30:34.683  INFO 3874 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-08 09:30:34.683  INFO 3874 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2704 ms
+2021-01-08 09:30:35.689  INFO 3874 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-08 09:30:35.840  INFO 3874 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-01-08 09:30:36.369  INFO 3874 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-08 09:30:36.436  INFO 3874 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2021-01-08 09:30:36.440  INFO 3874 --- [restartedMain] com.lz.BlogApplication                   : Started BlogApplication in 5.55 seconds (JVM running for 6.644)
+2021-01-08 23:43:55.477  INFO 3874 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
